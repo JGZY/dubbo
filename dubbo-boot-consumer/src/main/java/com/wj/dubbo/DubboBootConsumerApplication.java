@@ -10,6 +10,7 @@ public class DubboBootConsumerApplication {
 
     ///
     public static void main(String[] args) {
+        System.out.println("aaa");
         SpringApplication.run(DubboBootConsumerApplication.class, args);
     }
 
